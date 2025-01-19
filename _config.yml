@@ -1,9 +1,10 @@
-title:"SUE Study" 
-theme: just-the-docs
-url: https://sue-23.github.io
-aux_links:
-  Template Repository: https://github.com/sue-23/sue-23.github.io.git 
+title: "SUE Study" # 제목 설정
+remote_theme: just-the-docs/just-the-docs # Just the Docs 테마 설정
+url: "https://sue-23.github.io" # 사이트 URL
+aux_links: # 추가 링크
+  Template Repository: 
+    - "https://github.com/sue-23/sue-23.github.io.git"
 plugins:
-  - jekyll-seo-tag
-search_enabled: true
+  - jekyll-seo-tag # SEO 플러그인
+search_enabled: true # 검색 활성화
 
