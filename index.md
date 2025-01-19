@@ -1,6 +1,9 @@
 ---
-title: Home
-layout: home
+layout: default
+title: Welcome
+nav_order: 1
 ---
 
-test
+# Welcome to My Blog!
+This is your custom homepage. Edit `index.md` to change this content.
+
